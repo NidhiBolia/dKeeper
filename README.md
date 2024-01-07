@@ -2,7 +2,7 @@
 
 Welcome to your new dkeeper project and to the internet computer development community.
 
-If you want to start working on your project right away, you might want to try the following commands:
+If you want to start working on project right away, you might want to try the following commands:
 
 ```bash
 cd dkeeper/
